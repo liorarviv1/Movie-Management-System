@@ -1,4 +1,4 @@
-# Movie Management System
+# Movies Management System
 <div style="text-align:center">
   <img src="https://user-images.githubusercontent.com/129841851/231477540-05505a00-2101-400b-97ae-032ce0251638.png" alt="image" width="400">
 </div>
