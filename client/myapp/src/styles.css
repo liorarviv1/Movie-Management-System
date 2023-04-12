@@ -1,0 +1,140 @@
+.login-container {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  flex-direction: column;
+align-items: center;
+justify-content: center;
+  color: white;
+
+/* height: 100vh; */
+}
+/* display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+height: 100vh; */
+
+
+form {
+  /* display: flex; */
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+input {
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border-radius: 0.25rem;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+  width: 100%;
+  max-width: 20rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  background-color: #0077cc;
+  color: #fff;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.centered1 {
+  /* height: 100%; */
+  /* position: absolute;
+  padding: 20px; */
+
+  /* top: 5%; */
+  /* left: 25%;
+  text-align: center;
+  background-color: #f1f1f1; */
+  position: relative;
+  z-index: 1;
+  padding: 20px;
+  text-align: center;
+  background-color: #f1f1f1;
+   left: 25%;
+  padding: 20px; 
+  width: 53%;
+}
+.loginImage1{
+  /* background-image: url(batman-vs-superman.jpg);
+  background-size: contain; */
+  /* background-size:cover ; */
+  /* backgroundrepeat: no-repeat;
+  height:160vh ; */
+
+  /* background-image: url(batman-vs-superman.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100%;
+  height: 400vh; */
+  /* min-height: 400vh; */
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+
+}
+html, body {
+  height: 100%;
+  margin: 0;
+}
+.background-image {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background-image: url(batman-vs-superman.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.loginImage{
+  background-image: url(batman-vs-superman.jpg);
+  background-size: cover;
+  height: 100vh
+  /* background-size:cover ; */
+  /* backgroundrepeat: no-repeat;
+  height:160vh ; */
+}
+
+.centerAll{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh;  */
+  width:'400px';
+  border: 2px solid black; /* add a 2px red border */
+  padding: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
