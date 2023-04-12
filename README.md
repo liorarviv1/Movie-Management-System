@@ -20,6 +20,8 @@ Each member can see, add, edit, and delete moveis and subscriptions (subscriptio
 <ul>
     <li>display all the movies in the cinima site.</li>
     <li>Members and Admin can edit and add movies - depend on their permissions.</li>
+     <img src="https://user-images.githubusercontent.com/129841851/231470948-52d27d87-6c3f-4aba-a4e4-9ea25e7812a2.png" alt="image1" width="400">
+     <img src="https://user-images.githubusercontent.com/129841851/231470963-b09eb63b-d414-424b-a16c-48fdaf27cdb2.png" alt="image2" width="400"> 
 
 </ul>
 <h3>subscriptions</h3>
