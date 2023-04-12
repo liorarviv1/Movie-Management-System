@@ -16,12 +16,22 @@ The Cinima has Users for authentication and autorizetion which connected to memb
 Each member can see, add, edit, and delete moveis and subscriptions (subscriptions canot be deleted) as their user's permissions.<br/>
 
 ## Pages
-<h3> movise </h3>
-display all the movies in the cinima site.<br/>
-Members and Admin can edit and add movies - depend on their permissions.<br/><br/>
-subscriptions<br/>
-display all the subscriptions in the cinima site.<br/>
-Members and Admin can add subscriptions - depend on their permissions.<br/><br/>
-user management<br/>
-display all the users-members data in the cinima site just for Admin.<br/>
-This page allowd Admin to add, edit, delete users.<br/>
+<h3>movise</h3>
+<ul>
+    <li>display all the movies in the cinima site.</li>
+    <li>Members and Admin can edit and add movies - depend on their permissions.</li>
+
+</ul>
+<h3>subscriptions</h3>
+<ul>
+    <li>display all the subscriptions in the cinima site.</li>
+    <li>Members and Admin can add subscriptions - depend on their permissions.</li>
+
+</ul>
+<h3>user management</h3>
+<ul>
+    <li>display all the users-members data in the cinima site just for Admin.</li>
+    <li>This page allowd Admin to add, edit, delete users.</li>
+
+</ul>
+
