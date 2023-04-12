@@ -22,6 +22,7 @@ Each member can see, add, edit, and delete moveis and subscriptions (subscriptio
     <li>Members and Admin can edit and add movies - depend on their permissions.</li>
      <img src="https://user-images.githubusercontent.com/129841851/231470948-52d27d87-6c3f-4aba-a4e4-9ea25e7812a2.png" alt="image1" width="400">
      <img src="https://user-images.githubusercontent.com/129841851/231470963-b09eb63b-d414-424b-a16c-48fdaf27cdb2.png" alt="image2" width="400"> 
+      <img src="https://user-images.githubusercontent.com/129841851/231475100-6dfbc587-8643-4994-8cfd-f2cafe9bb593.png" alt="image3" width="400"> 
 
 </ul>
 <h3>subscriptions</h3>
@@ -32,10 +33,5 @@ Each member can see, add, edit, and delete moveis and subscriptions (subscriptio
      <img src="https://user-images.githubusercontent.com/129841851/231472728-8ca3e0df-5c46-44f0-ada9-fbdc9282aed0.png" alt="image2" width="400"> 
 
 </ul>
-<h3>user management</h3>
-<ul>
-    <li>display all the users-members data in the cinima site just for Admin.</li>
-    <li>This page allowd Admin to add, edit, delete users.</li>
 
-</ul>
 
