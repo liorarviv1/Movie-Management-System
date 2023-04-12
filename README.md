@@ -36,5 +36,20 @@ Each member can see, add, edit, and delete moveis and subscriptions (subscriptio
      <img src="https://user-images.githubusercontent.com/129841851/231472728-8ca3e0df-5c46-44f0-ada9-fbdc9282aed0.png" alt="image2" width="400"> 
 
 </ul>
+<h3>Running the React Frontend</h3>
+<ul>
+    <li>Navigate to the root directory of your React project in your terminal/command prompt.</li>
+    <li>Install all the necessary dependencies by running the command npm install.</li>
+    <li>Start the development server by running the command npm start.</li>
+    <li>Your React project should now be running on http://localhost:3000/.</li>
+</ul>
+
+<h3>Running the Node.js Backend</h3>
+<ul>
+    <li>Navigate to the root directory of your Node.js project in your terminal/command prompt.</li>
+    <li>Install all the necessary dependencies by running the command npm install.</li>
+    <li>Start the Node.js server by running the command node app.js. (Note: the app.js file should contain your server-side code).</li>
+    <li>Your Node.js server should now be running and listening for incoming requests on the specified port (which you can configure in your app.js file).</li>
+</ul>
 
 
