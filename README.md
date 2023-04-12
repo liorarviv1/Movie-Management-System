@@ -2,7 +2,7 @@
 <div style="text-align:center">
   <img src="https://user-images.githubusercontent.com/129841851/231477540-05505a00-2101-400b-97ae-032ce0251638.png" alt="image" width="400">
 </div>
- Movie Management System is a web application created for managing a cinema general data such as: movies, users and members, and provides subscriptions management options.
+ Movies Management System is a web application created for managing a cinema general data such as: movies, users and members, and provides subscriptions management options.
  
 
 ## Server side:
