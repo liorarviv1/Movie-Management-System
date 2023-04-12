@@ -16,6 +16,9 @@ The Cinima has Users for authentication and autorizetion which connected to memb
 Each member can see, add, edit, and delete moveis and subscriptions (subscriptions canot be deleted) as their user's permissions.<br/>
 
 ## Pages
+<h3>Login</h3>
+     <img src="https://user-images.githubusercontent.com/129841851/231476044-43934630-003c-4434-86f8-0e9f7411c5f9.png" width="800">
+
 <h3>movise</h3>
 <ul>
     <li>display all the movies in the cinima site.</li>
