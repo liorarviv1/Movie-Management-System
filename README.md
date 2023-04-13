@@ -22,7 +22,7 @@ Each member can see, add, edit, and delete moveis and subscriptions (subscriptio
 <h3>Login</h3>
      <img src="https://user-images.githubusercontent.com/129841851/231476044-43934630-003c-4434-86f8-0e9f7411c5f9.png" width="800">
 
-<h3>movise</h3>
+<h3>Movise</h3>
 <ul>
     <li>display all the movies in the cinima site.</li>
     <li>Members and Admin can edit and add movies - depend on their permissions.</li>
@@ -31,7 +31,7 @@ Each member can see, add, edit, and delete moveis and subscriptions (subscriptio
       <img src="https://user-images.githubusercontent.com/129841851/231475100-6dfbc587-8643-4994-8cfd-f2cafe9bb593.png" alt="image3" width="400"> 
 
 </ul>
-<h3>subscriptions</h3>
+<h3>Subscriptions</h3>
 <ul>
     <li>display all the subscriptions in the cinima site.</li>
     <li>Members and Admin can add subscriptions - depend on their permissions.</li>
